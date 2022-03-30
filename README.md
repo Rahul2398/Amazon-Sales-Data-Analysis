@@ -20,5 +20,6 @@ PYTHON
 ## TOOLS:
 Jupyter Notebook, Power BI, MS Excel
 ## LINKEDIN: 
+https://www.linkedin.com/posts/rahul-gupta-0b10bb21b_analyzing-amazon-sales-data-activity-6914799832943525888-xm6O?utm_source=linkedin_share&utm_medium=member_desktop_web
 ## VIDEO LINK:
 https://youtu.be/JcMVNsBByhY

@@ -1,6 +1,6 @@
 # Amazon-Sales-Data-Analysis
 ## OBJECTIVE:
-Objective of this project is to understand sales trend of Items.
+Objective of this project is to analyze sales data.
 ## PROBLEM STATEMENT: 
 Sales Management has gained importance to meet increasing competition and the need
 for improved methods of distribution to reduce cost and to increase profits. Sales

@@ -1,4 +1,4 @@
-# Amazon-Sales-Data-Analysis
+# Sales-Data-Analysis
 ## OBJECTIVE:
 To Understand how was the Sales of different Items. 
 ## PROBLEM STATEMENT: 
